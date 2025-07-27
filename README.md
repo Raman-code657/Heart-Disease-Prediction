@@ -1,5 +1,4 @@
 # Heart Disease Prediction and Analysis
-![Heart Disease Prediction](image.jpg)
 
 ## Overview
 This repository contains a project focused on heart disease prediction. The data, derived from heart patients, includes various health metrics such as age, blood pressure, heart rate, and more. The primary objective is to create a predictive model that accurately identifies individuals at risk of heart disease. The emphasis is on achieving a high recall to ensure no potential heart disease case is missed.
