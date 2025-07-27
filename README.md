@@ -98,17 +98,11 @@ The dataset comprises various metrics related to heart health. The features of t
 </div>
 <br>
 
-You can find the dataset [here](heart.csv).
+
 
 ## File Descriptions
 - `Heart Disease Prediction.ipynb`: Jupyter notebook containing all the data exploration, visualization, modeling, and evaluation code.
 - `heart.csv`: CSV file containing the heart disease data.
 - `README.md`: This file, providing an overview of the project.
 
-## How to Run
-- Clone this repository.
-- Open the `Heart Disease Prediction.ipynb` notebook in Jupyter.
-- Run all cells in the notebook.
 
-## Additional Resources
-For those interested in exploring this notebook in a Kaggle environment, you can access it [here](https://www.kaggle.com/code/farzadnekouei/heart-disease-prediction).n
